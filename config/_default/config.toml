@@ -1,4 +1,4 @@
-baseurl = "https://github.com"
+baseurl = "https://bitbanana.github.io/docs"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
