@@ -1,7 +1,7 @@
 {
-  "name": "doks-child-theme",
-  "description": "Doks child theme",
-  "version": "0.5.0",
+  "name": "bitbanana-docs",
+  "description": "Bitbanana Docs",
+  "version": "0.0.1",
   "engines": {
     "node": ">=16.16.0"
   },

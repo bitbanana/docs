@@ -1,0 +1,17 @@
+- id: get-started
+  translation: "始める"
+
+- id: on-this-page
+  translation: "ページ内リンク"
+
+- id: search-text
+  translation: "検索"
+
+- id: 404-title
+  translation: "Not Found..."
+
+- id: 404-text
+  translation: "ページは見つかりませんでした"
+
+- id: browse
+  translation: "Browse"
