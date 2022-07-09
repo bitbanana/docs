@@ -1,7 +1,7 @@
 ---
-title: "バージョン0.0.1"
+title: "バージョン0.0.2"
 description: "これは説明文です"
-excerpt: "ブログの１つ目です"
+excerpt: "ブログの2つ目です"
 date: 2020-11-04T09:19:42+01:00
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
