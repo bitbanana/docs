@@ -10,28 +10,27 @@ description = "ビットバナナは誰でも使える暗号コインシミュ�
 # docsVersion = "0.3"
 
 ## Open Graph
-images = ["doks.png"]
-ogLocale = "en_US"
-domainTLD = "doks.netlify.app"
-titleHome = "Doks Theme"
+images = ["bitbanana-logo.png"]
+ogLocale = "ja_JA"
+domainTLD = "これはドメインです"
+titleHome = "ホームのタイトル"
 
 ## Twitter Cards
 twitterSite = "@rubydog725"
 twitterCreator = "@rubydog725"
 
 ## JSON-LD
-# schemaType = "Person"
-schemaType = "Organization"
-schemaName = "Doks"
-schemaAuthor = "Henk Verlinde"
+schemaType = "Organization" #Person も選べるらしい
+schemaName = "Bitbanana"
+schemaAuthor = "Rubydog"
 schemaAuthorTwitter = "https://twitter.com/rbdog"
 schemaAuthorLinkedIn = "https://これはリンクトインへの連携です"
 schemaAuthorGitHub = "https://github.com/rbdog"
 schemaLocale = "ja-JA"
-schemaLogo = "logo-doks.png"
+schemaLogo = "bitbanana-logo.png"
 schemaLogoWidth = 512
 schemaLogoHeight = 512
-schemaImage = "doks.png"
+schemaImage = "bitbanana-logo.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
 schemaTwitter = "https://twitter.com/rbdog"
@@ -61,7 +60,7 @@ singleSize = false
 imageAddClass = "img-fluid lazyload blur-up"
 
 ### Image template
-defaultImage = "default-image.png" # put in `./assets/images/`
+defaultImage = "bitbanana-blog.png" # put in `./assets/images/`
 fillImage = "1270x740 Center" # normalize image size
 
 # Footer
@@ -77,9 +76,7 @@ alertDismissable = true
 alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\">Check out Doks v0.2</a>"
 
 # Edit Page
-# repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
 repoHost = "GitHub"
-#repoHost = "Gitea"
 docsRepo = "https://github.com/rbdog"
 docsRepoBranch = "master"
 docsRepoSubPath = ""

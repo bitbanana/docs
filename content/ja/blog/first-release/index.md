@@ -13,5 +13,3 @@ contributors: ["Rubydog"]
 pinned: false
 homepage: false
 ---
-
-ここが投稿の中身です

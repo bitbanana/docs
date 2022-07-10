@@ -2,4 +2,4 @@
 
 > テスト中です
 
-https://bitbanana.github.io/docs/
+https://bitbanana.github.io/docs

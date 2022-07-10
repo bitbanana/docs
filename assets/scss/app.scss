@@ -36,3 +36,71 @@
 
 /** Import custom styles */
 @import "common/custom";
+
+.header-bar {
+       border-top: 4px solid;
+       border-image-source: none;
+       color: brown;
+       border-image-slice: 1;
+     }
+     
+     .offcanvas .header-bar {
+       margin-bottom: -4px;
+     }
+
+//      // スタートボタン
+//      .btn-primary {
+//        color: yellow;
+//        background-color: brown;
+//        border-color: white;
+
+//      }
+
+//      // スタートボタンホバー
+//      .btn-primary:hover{
+//        color: yellow;
+//        background-color: brown;
+//        border-color: yellow;
+//      }
+
+//      // スタートボタン押下
+//      .btn-primary:focus{
+//        background-color:black;
+//        color: yellow;
+//        border-color: yellow;
+// }
+
+// AppBar
+.navbar {
+       background-color:brown;
+}
+
+// メインブランド名
+.navbar-light .navbar-brand {
+       color:yellow;
+}
+
+// 選択されていない
+.offcanvas .nav-link {
+       color:white;
+}
+
+// 選択中
+.offcanvas .nav-link.active {
+       color:yellow;
+}
+
+// ダークモード切り替えボタン ホバー
+.navbar .btn-link:hover {
+       color: white;
+   }
+
+   // ダークモード切り替えボタン
+.navbar .btn-link {
+       color: white;
+   }
+
+   // サイドメニュー
+.offcanvas-body {
+       background-color: brown;
+       }

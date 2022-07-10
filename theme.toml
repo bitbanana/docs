@@ -3,8 +3,7 @@ license = "MIT"
 licenselink = "https://github.com/bitbanana/blob/main/LICENSE"
 description = "bitbananaの説明をここに書きます"
 
-homepage = "https://github.com/bitbanana"
-demosite = "https://github.com/bitbanana"
+homepage = "https://bitbanana.github.io/docs"
 
 tags = ["bitbanana", "coin", "game"]
 features = ["proof of stake", "blockchain"]
